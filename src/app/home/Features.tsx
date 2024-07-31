@@ -23,16 +23,8 @@ const FEATURES = [
   },
   {
     src: featureOpenSourceSrc,
-    title: "Open-Source",
-    text: (
-      <>
-        OpenResume is an open-source project, and its source code can be viewed
-        by anyone on its{" "}
-        <Link href="https://github.com/xitanggg/open-resume">
-          GitHub repository
-        </Link>
-      </>
-    ),
+    title: "Customization Options",
+    text: "OpenResume provides advanced customization options to help you create professional resumes that are tailored to your needs",
   },
 ];
 

@@ -3,11 +3,11 @@ import { Link } from "components/documentation";
 const QAS = [
   {
     question:
-      "Q1. What is a resume builder? Why resume builder is better than resume template doc?",
+      "Q1: What is a resume builder? Why resume builder is better than resume template doc?",
     answer: (
       <>
         <p>
-          There are two ways to create a resume today. One option is to use a
+          A: There are two ways to create a resume today. One option is to use a
           resume template, such as an office/google doc, and customize it
           according to your needs. The other option is to use a resume builder,
           an online tool that allows you to input your information and
@@ -29,11 +29,11 @@ const QAS = [
   },
   {
     question:
-      "Q2. What uniquely sets OpenResume apart from other resume builders and templates?",
+      "Q2: What uniquely sets OpenResume apart from other resume builders and templates?",
     answer: (
       <>
         <p>
-          Other than OpenResume, there are some great free resume builders out
+          A: Other than OpenResume, there are some great free resume builders out
           there, e.g. <Link href="https://rxresu.me/">Reactive Resume</Link>,{" "}
           <Link href="https://flowcv.com/">FlowCV</Link>. However, OpenResume
           stands out with 2 distinctive features:
@@ -69,53 +69,37 @@ const QAS = [
     ),
   },
   {
-    question: "Q3. Who created OpenResume and why?",
+    question: "Q3: What payment methods do you accept?",
     answer: (
       <p>
-        OpenResume was created by{" "}
-        <Link href="https://github.com/xitanggg">Xitang Zhao</Link> and designed
-        by <Link href="https://www.linkedin.com/in/imzhi">Zhigang Wen</Link> as
-        a weekend project. As immigrants to the US, we had made many mistakes
-        when creating our first resumes and applying for internships and jobs.
-        It took us a long while to learn some of the best practices. While
-        mentoring first generation students and reviewing their resumes, we
-        noticed students were making the same mistakes that we had made before.
-        This led us to think about how we can be of help with the knowledge and
-        skills we have gained. We started chatting and working over the weekends
-        that led to OpenResume, where we integrated best practices and our
-        knowledge into this resume builder. Our hope is that OpenResume can help
-        anyone to easily create a modern professional resume that follows best
-        practices and enable anyone to apply for jobs with confidence.
+        A: We accept all major credit cards.
       </p>
     ),
   },
   {
-    question: "Q4. How can I support OpenResume?",
+    question: "Q4: How do you ensure the privacy and security of my resumes?",
+    answer: (
+      <p>
+        A: Your privacy is our priority. We do not store any resumes on the cloud. All resumes are saved locally on your device, ensuring maximum privacy and security.
+      </p>
+    )
+  },
+  {
+    question: "Q5: How can I support OpenResume?",
     answer: (
       <>
         <p>
-          The best way to support OpenResume is to share your thoughts and
+          A: The best way to support OpenResume is to share your thoughts and
           feedback with us to help further improve it. You can send us an email
           at{" "}
-          <Link href="mailto:hello@open-resume.com">hello@open-resume.com</Link>{" "}
-          or{" "}
-          <Link href="https://github.com/xitanggg/open-resume/issues/new">
-            open an issue
-          </Link>{" "}
-          at our Github repository. Whether you like it or not, we would love to
-          hear from you.
+          <Link href="mailto:hello@openresume.cc">hello@openresume.cc</Link>{" "}
         </p>
         <p>
           Another great way to support OpenResume is by spreading the words.
           Share it with your friends, on social media platforms, or with your
           school’s career center. Our goal is to reach more people who struggle
           with creating their resume, and your word-of-mouth support would be
-          greatly appreciated. If you use Github, you can also show your support
-          by{" "}
-          <Link href="https://github.com/xitanggg/open-resume">
-            giving the project a star
-          </Link>{" "}
-          to help increase its popularity and reach.
+          greatly appreciated.
         </p>
       </>
     ),

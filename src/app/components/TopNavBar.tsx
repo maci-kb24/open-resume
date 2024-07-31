@@ -32,7 +32,7 @@ export const TopNavBar = () => {
           className="flex items-center gap-2 text-sm font-medium"
         >
           {[
-            ["#pricing", "Pricing"],
+            ["/#pricing", "Pricing"],
             ["/resume-builder", "Builder"],
             ["/resume-parser", "Parser"],
           ].map(([href, text]) => (
