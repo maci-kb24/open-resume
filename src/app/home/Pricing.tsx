@@ -89,7 +89,7 @@ export const Pricing = () => {
                                 </span>
                             </li>
                         </ul>
-                        <Link href="/resume-import" className="btn-primary mt-[8rem]">
+                        <Link href="https://buy.stripe.com/28oeVE6zU3LLbGodQQ" className="btn-primary mt-[8rem]">
                             Get Started <span aria-hidden="true">→</span>
                         </Link>
                     </div>
@@ -193,7 +193,7 @@ export const Pricing = () => {
                                 </span>
                             </li>
                         </ul>
-                        <Link href="/resume-import" className="btn-primary mt-[5.5rem]">
+                        <Link href="https://buy.stripe.com/00geVE3nI4PPeSA9AB" className="btn-primary mt-[5.5rem]">
                             Get Started <span aria-hidden="true">→</span>
                         </Link>
                     </div>
@@ -314,7 +314,7 @@ export const Pricing = () => {
                                 </span>
                             </li>
                         </ul>
-                        <Link href="/resume-import" className="btn-primary mt-6">
+                        <Link href="https://buy.stripe.com/fZe28S7DY3LL5i0bIK" className="btn-primary mt-6">
                             Get Started <span aria-hidden="true">→</span>
                         </Link>
                     </div>

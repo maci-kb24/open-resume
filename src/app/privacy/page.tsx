@@ -1,10 +1,10 @@
 
 export default function Privacy() {
     return (
-        <div className="bg-gray-100">
+        <div className="bg-dot">
             <div className="container mx-auto px-4 max-w-5xl  py-14">
                 <h1 className="text-3xl font-bold mb-4 pt-8">OpenResume Privacy Policy</h1>
-                <p className="mb-4"><strong>Effective Date:</strong>July 31,2024</p>
+                <p className="mb-4"><strong>Effective Date:</strong>January 31, 2024</p>
                 <p className="mb-4">
                     This privacy policy sets out how our website uses and protects any
                     information that you give us when you use this website.
