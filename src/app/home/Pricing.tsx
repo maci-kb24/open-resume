@@ -2,10 +2,10 @@ import Link from "next/link"
 
 export const Pricing = () => {
     return (
-        <section className="bg-white dark:bg-gray-900" id="pricing">
+        <section className="bg-white" id="pricing">
             <div className="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
                 <div className="mx-auto max-w-screen-md text-center mb-8 lg:mb-12">
-                    <h2 className="mb-4 text-3xl tracking-tight font-extrabold text-gray-900 dark:text-white">
+                    <h2 className="mb-4 text-3xl tracking-tight font-extrabold text-gray-900 ">
                         Designed for professionals like you
                     </h2>
                 </div>

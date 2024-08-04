@@ -7,7 +7,7 @@ import logoSrc from "public/logo.svg";
 export const Footer = () => {
 
     return (
-        <footer className="bg-white rounded-lg shadow dark:bg-gray-900 px-3 lg:px-12">
+        <footer className="bg-white rounded-lg shadow  px-3 lg:px-12">
             <div className="w-full max-w-screen-xl mx-auto p-4 md:py-8">
                 <div className="sm:flex sm:items-center sm:justify-between">
 
