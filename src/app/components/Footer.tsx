@@ -32,6 +32,11 @@ export const Footer = () => {
                             </Link>
                         </li>
                         <li>
+                            <Link href="/licence" className="hover:underline me-4 md:me-6">
+                                Licence
+                            </Link>
+                        </li>
+                        <li>
                             <p  className="hover:underline">
                                 hello@openresume.cc
                             </p>
@@ -41,7 +46,7 @@ export const Footer = () => {
                 <hr className="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
                 <span className="block text-sm text-gray-500 sm:text-center dark:text-gray-400">
                     © 2024{" "}
-                    OpenResume™
+                    <Link href="https://github.com/xitanggg/open-resume">OpenResume™</Link>
                     . All Rights Reserved.
                 </span>
             </div>

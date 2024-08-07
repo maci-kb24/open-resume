@@ -348,6 +348,13 @@ export const ResumeParserAlgorithmArticle = ({
       <Paragraph>
         And that is everything about the OpenResume parser algorithm :)
       </Paragraph>
+      <Paragraph smallMarginTop={true}>
+        Credit to <Link href="https://github.com/xitanggg/open-resume">
+          OpenResume
+        </Link>{" "}
+        is a resume parser that uses the same algorithm as the OpenResume
+        website.
+      </Paragraph>
     </article>
   );
 };
