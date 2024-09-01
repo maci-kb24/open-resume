@@ -12,13 +12,14 @@ export const Footer = () => {
                 <div className="sm:flex sm:items-center sm:justify-between">
 
                     <Link href="/" className="flex items-center mb-4 sm:mb-0 space-x-3 rtl:space-x-reverse">
-                        <span className="sr-only">OpenResume</span>
-                        <Image
+                        <span className="sr-only">QuickResume</span>
+                        {/* <Image
                             src={logoSrc}
                             alt="OpenResume Logo"
                             className="h-8 w-full"
                             priority
-                        />
+                        /> */}
+                        <h1 className="text-xl font-semibold">QuickResume</h1>
                     </Link>
                     {/* <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
                             Flowbite

@@ -9,22 +9,22 @@ const FEATURES = [
   {
     src: featureFreeSrc,
     title: "Free Forever",
-    text: "OpenResume is created with the belief that everyone should have free and easy access to a modern professional resume design",
+    text: "QuickResume is created with the belief that everyone should have free and easy access to a modern professional resume design",
   },
   {
     src: featureUSSrc,
     title: "U.S. Best Practices",
-    text: "OpenResume has built-in best practices for the U.S. job market and works well with top ATS platforms such as Greenhouse and Lever",
+    text: "QuickResume has built-in best practices for the U.S. job market and works well with top ATS platforms such as Greenhouse and Lever",
   },
   {
     src: featurePrivacySrc,
     title: "Privacy Focus",
-    text: "OpenResume stores data locally in your browser so only you have access to your data and with complete control",
+    text: "QuickResume stores data locally in your browser so only you have access to your data and with complete control",
   },
   {
     src: featureOpenSourceSrc,
     title: "Customization Options",
-    text: "OpenResume provides advanced customization options to help you create professional resumes that are tailored to your needs",
+    text: "QuickResume provides advanced customization options to help you create professional resumes that are tailored to your needs",
   },
 ];
 

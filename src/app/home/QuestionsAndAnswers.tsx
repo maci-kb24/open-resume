@@ -19,7 +19,7 @@ const QAS = [
           time-consuming and error-prone. It is easy to run into formatting
           issues, such as using different bullet points or font styles after
           copying and pasting. On the other hand, a resume builder like
-          OpenResume saves time and prevents formatting mistakes by
+          QuickResume saves time and prevents formatting mistakes by
           automatically formatting the resume. It also offers the convenience of
           easily changing font types or sizes with a simple click. In summary, a
           resume builder is easier to use compared to a resume template.
@@ -29,40 +29,40 @@ const QAS = [
   },
   {
     question:
-      "Q2: What uniquely sets OpenResume apart from other resume builders and templates?",
+      "Q2: What uniquely sets QuickResume apart from other resume builders and templates?",
     answer: (
       <>
         <p>
-          A: Other than OpenResume, there are some great free resume builders out
+          A: Other than QuickResume, there are some great free resume builders out
           there, e.g. <Link href="https://rxresu.me/">Reactive Resume</Link>,{" "}
-          <Link href="https://flowcv.com/">FlowCV</Link>. However, OpenResume
+          <Link href="https://flowcv.com/">FlowCV</Link>. However, QuickResume
           stands out with 2 distinctive features:
         </p>{" "}
         <p>
           <span className="font-semibold">
-            1. OpenResume is designed specifically for the U.S. job market and
+            1. QuickResume is designed specifically for the U.S. job market and
             best practices.
           </span>
           <br />
           Unlike other resume builders that target a global audience and offer
-          many customization options, OpenResume intentionally only offers
+          many customization options, QuickResume intentionally only offers
           options that are aligned with U.S. best practices. For example, it
           excludes the option to add a profile picture to avoid bias and
           discrimination. It offers only the core sections, e.g. profile, work
           experience, education, and skills, while omitting unnecessary sections
-          like references. Additionally, OpenResume only offers a top down
+          like references. Additionally, QuickResume only offers a top down
           single column resume design as opposed to two column design, because
           single column design works best for AST. <br />{" "}
         </p>
         <p>
           <span className="font-semibold">
-            2. OpenResume is super privacy focus.
+            2. QuickResume is super privacy focus.
           </span>{" "}
           <br />
           While other resume builders may require email sign up and store user
-          data in their databases, OpenResume believes that resume data should
+          data in their databases, QuickResume believes that resume data should
           remain private and accessible only on user’s local machine. Therefore,
-          OpenResume doesn’t require sign up to use the app, and all inputted
+          QuickResume doesn’t require sign up to use the app, and all inputted
           data is stored in user’s browser that only user has access to.
         </p>
       </>
@@ -85,17 +85,17 @@ const QAS = [
     )
   },
   {
-    question: "Q5: How can I support OpenResume?",
+    question: "Q5: How can I support QuickResume?",
     answer: (
       <>
         <p>
-          A: The best way to support OpenResume is to share your thoughts and
+          A: The best way to support QuickResume is to share your thoughts and
           feedback with us to help further improve it. You can send us an email
           at{" "}
-          <Link href="mailto:hello@openresume.cc">hello@openresume.cc</Link>{" "}
+          <Link href="mailto:hello@quickresume.cc">hello@quickresume.cc</Link>{" "}
         </p>
         <p>
-          Another great way to support OpenResume is by spreading the words.
+          Another great way to support QuickResume is by spreading the words.
           Share it with your friends, on social media platforms, or with your
           school’s career center. Our goal is to reach more people who struggle
           with creating their resume, and your word-of-mouth support would be
